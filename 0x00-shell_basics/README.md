@@ -1,1 +1,1 @@
-pwd
+executable command scripts
